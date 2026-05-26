@@ -1,4 +1,4 @@
-# 🪄 EchoState Universal Controller (Auto-Revert)
+# 🪄 SNO EchoState Universal Controller (Auto-Revert)
 Home Assistant Blueprint
 
 Version
@@ -14,9 +14,9 @@ Anstatt mühsam "Einschalt-" und "Ausschalt-" Automatisierungen zu trennen, wäh
 ## 📥 Installation
 Klicke auf den folgenden Button, um den Blueprint direkt in deinen Home Assistant zu importieren:
 Open your Home Assistant instance and show the blueprint import dialog with a specific blueprint pre-filled.
-*Alternativ:* Kopiere den Inhalt der echostate_controller.yaml manuell in deinen blueprints/automation/ Ordner.
+*Alternativ:* Kopiere den Inhalt der sno-echostate.yaml manuell in deinen blueprints/automation/ Ordner.
 ## 📚 Dokumentation
- * Ausführliche Benutzeranleitung
+ * Ausführliche FAQ & Benutzeranleitung
  * Changelog
  * Entwickler-Dokumentation
 ## 🐛 Fehler & Feedback
